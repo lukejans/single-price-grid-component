@@ -1,0 +1,56 @@
+/* color styling */
+* {
+  font-family: 'Karla', sans-serif, monospace;
+  font-size: 1rem;
+  color: white;
+  font-weight: 400;
+}
+
+.card-title1 {
+  color: hsl(179, 62%, 43%);
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.card-title2,
+.card-title3 {
+  font-weight: 700;
+}
+
+.green-txt {
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+}
+
+.main-txt {
+  color: hsl(218, 22%, 67%);
+}
+
+.cost {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.why-txt,
+.month {
+  color: hsl(179, 72%, 86%);
+}
+
+.box1 {
+  background-color: white;
+}
+
+.box2 {
+  background-color: hsl(179, 62%, 43%);
+}
+
+.box3 {
+  background-color: hsl(174, 62%, 43%);
+}
+
+.button {
+  text-decoration: none;
+  background-color: hsl(71, 73%, 54%);
+  padding: 1rem 5.8rem;
+  border-radius: 0.5rem;
+}
