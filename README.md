@@ -1,27 +1,4 @@
-# Frontend Mentor - nft-preview-component
-
-This is a solution to the [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-k0qBNFENp1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
-### Screenshot
-
-![NFT Preview](./images/screenshot-wassie.png)
+# Frontend Mentor - single price grid component
 
 ### Links
 
