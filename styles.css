@@ -1,9 +1,13 @@
-/* color styling */
+/* txt styling */
 * {
   font-family: 'Karla', sans-serif, monospace;
   font-size: 1rem;
   color: white;
   font-weight: 400;
+}
+
+body {
+  background-color: hsl(204, 43%, 93%);
 }
 
 .card-title1 {
@@ -36,6 +40,12 @@
   color: hsl(179, 72%, 86%);
 }
 
+.box1,
+.box2,
+.box3 {
+  padding: 1.5rem;
+}
+
 .box1 {
   background-color: white;
 }
@@ -45,7 +55,7 @@
 }
 
 .box3 {
-  background-color: hsl(174, 62%, 43%);
+  background-color: hsl(179, 46%, 58%);
 }
 
 .button {
@@ -53,4 +63,27 @@
   background-color: hsl(71, 73%, 54%);
   padding: 1rem 5.8rem;
   border-radius: 0.5rem;
+}
+
+/* layout styles */
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.wrapper {
+  max-width: 1440px;
+  min-width: 375px;
+  margin: auto;
+}
+
+.display {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(375px, 720px));
+  margin: 25px;
+}
+
+.box1 {
+  grid-column: 1 / 3;
 }
