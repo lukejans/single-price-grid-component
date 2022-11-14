@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [html](https://github.com/lukejans/nft-preview-component/blob/main/index.html) & [css](https://github.com/lukejans/nft-preview-component/blob/main/style.css)
-- Live Site URL: [github pages]()
+- Solution URL: [html](https://github.com/lukejans/single-price-grid-component/blob/main/index.html) & [css](https://github.com/lukejans/single-price-grid-component/blob/main/styles.css)
+- Live Site URL: [github pages](https://lukejans.github.io/single-price-grid-component/)
 
 ## Author
 
