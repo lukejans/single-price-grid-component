@@ -38,6 +38,10 @@ body {
   font-weight: 700;
 }
 
+.why-txt {
+  margin-right: 3rem;
+}
+
 .why-txt,
 .month {
   color: hsl(179, 72%, 86%);
