@@ -58,12 +58,14 @@ body {
   padding-bottom: 1.5rem;
   line-height: 1.6;
   text-align: start;
+  overflow: hidden;
 }
 
 .box1,
 .box2,
 .box3 {
   padding: 1.5rem;
+  overflow: hidden;
 }
 
 .box1 {
